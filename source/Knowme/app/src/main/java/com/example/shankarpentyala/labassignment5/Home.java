@@ -1,4 +1,4 @@
-package com.example.vamsi.labassignment5;
+package com.example.vamsi.knowme;
 
 import android.*;
 import android.content.Context;

@@ -1,4 +1,4 @@
-package com.example.vamsi.labassignment5;
+package com.example.vamsi.knowme;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
